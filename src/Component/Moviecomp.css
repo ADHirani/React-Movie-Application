@@ -1,0 +1,24 @@
+.ManageDiv{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+    justify-content: space-between;
+}
+.MainCont{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 170px;
+    height: 280px;
+    box-shadow: 2px 3px 4px 0px #aaa;
+    cursor: pointer;
+    margin: 30px 30px;
+    background-color: white;
+}
+.MovieDes{
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+    text-align: center;
+}
