@@ -6,7 +6,7 @@ import './Moviecomp.css'
 import DetailedMovie from "./DetailedMovie";
 import Navbar from "./Navbar";
 
-export const apikey = '1091873e'
+export const apikey = '10918e'
 const searchDiv={
     width: '440px',
     display: 'flex',
