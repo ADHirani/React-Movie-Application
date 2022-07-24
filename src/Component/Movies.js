@@ -6,6 +6,7 @@ import './Moviecomp.css'
 import DetailedMovie from "./DetailedMovie";
 import Navbar from "./Navbar";
 
+/* I have changed API key for security porpouse*/
 export const apikey = '10918e'
 const searchDiv={
     width: '440px',
